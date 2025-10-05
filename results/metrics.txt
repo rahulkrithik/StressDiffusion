@@ -1,0 +1,2 @@
+Mean Squared Error (MSE): 0.177617
+Fréchet Inception Distance (FID) for Time-Series: 0.1517
